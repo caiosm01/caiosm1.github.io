@@ -72,6 +72,19 @@ Meu objetivo é contribuir para a melhoria contínua dos processos internos, ide
 
 ---
 
+- ### Pesquisa de serviços públicos no Power BI
+![image](https://www.google.com.br/search?q=Pol%C3%ADticas+p%C3%BAblicas&sca_esv=f23d37099304cbcf&gl=br&udm=2&biw=1358&bih=616&sxsrf=ADLYWII5l4oncdszQM9Ivut9OnyTfIiWTQ%3A1729977921273&ei=QV4dZ5KoEJDa1sQPqtCyqAY&ved=0ahUKEwjSzN37_ayJAxUQrZUCHSqoDGUQ4dUDCBA&uact=5&oq=Pol%C3%ADticas+p%C3%BAblicas&gs_lp=EgNpbWciFFBvbMOtdGljYXMgcMO6YmxpY2FzMggQABiABBixAzIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABEjHL1DwCFjVLnABeACQAQCYAZILoAG9KqoBDzAuMi4zLjIuNC4xLjAuMbgBA8gBAPgBAZgCDqACpyuoAgrCAgcQIxgnGOoCwgIEECMYJ8ICChAAGIAEGEMYigXCAgsQABiABBixAxiDAcICEBAAGIAEGLEDGEMYgwEYigXCAg0QABiABBixAxhDGIoFwgIOEAAYgAQYsQMYgwEYigWYAweSBw0xLjIuMy4yLjUuNy0xoAfjSw&sclient=img#vhid=7qgr4xnu8O0tSM&vssid=mosaic)
+
+**Objetivos:**
+- Fornecer visualizações importantes de dados coletados em pesquisas realizadas com o público, em diversos setores de serviços públicos.
+  
+**Ferramentas:**
+- Microsoft Power BI
+
+#### Para acessar o projeto basta clicar em:     [Behance](https://www.behance.net/gallery/197089289/Pesquisa-de-servicos-publicos)
+
+---
+
 ## Projetos de Engenharia de dados <a name="projetos-engenharia"></a>
 
 ### Desenvolvimento de um Data Warehouse com MySQL
