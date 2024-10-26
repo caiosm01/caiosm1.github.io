@@ -37,6 +37,26 @@ Meu objetivo é contribuir para a melhoria contínua dos processos internos, ide
 - Pyenv
 
 ---
+## Projetos de Análise de Dados <a name="projetos-analise"></a>
+- ### Market basket analysis
+![image](https://github.com/user-attachments/assets/3c43007e-7d45-4ef2-8101-15508083c055)
+
+**Contexto:** A análise de cesta de mercado é amplamente utilizada no setor de varejo, onde os dados de vendas são processados e analisados para conseguir entender os padrões de compra dos clientes e assim, alcançar as melhores estratégias de venda. 
+
+**Objetivos:**
+- Será utilizado o algoritmo Apriori, que consiste na mineração de conjuntos de itens frequentes, ou seja, ele agrupa os itens que mais são comprados juntos pelos clientes, indicando suas tendências e correlações.
+  
+**Resultados:**
+- Este estudo permitiu identificar padrões de consumo dos clientes, possibilitando o desenvolvimento de estratégias específicas e direcionadas. A análise de market basket revelou associações entre produtos frequentemente adquiridos em conjunto, oferecendo insights valiosos para otimizar a disposição de produtos, personalizar promoções e aprimorar o cross-selling. Dessa forma, é possível atender melhor às preferências dos clientes e aumentar o ticket médio, contribuindo para a fidelização e para o crescimento das vendas.
+
+**Ferramentas:**
+- Jupyter Notebook
+- Python
+- Algoritmo Apriori
+
+#### Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/caiosm01/Market_Basket_Analysis_Apriori/tree/main)
+
+---
 
 Entre em contato comigo por meio de:  
 
