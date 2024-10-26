@@ -7,6 +7,16 @@ Minha trajetória na área de dados começou durante a iniciação científica n
 
 Meu objetivo é contribuir para a melhoria contínua dos processos internos, identificando problemas e oportunidades, além de fomentar o desenvolvimento de uma cultura orientada por dados (data-driven).
 
+| **Habilidades de Programação**             | **Estatística e Machine Learning**                                    |
+|--------------------------------------------|----------------------------------------------------------------------|
+| - Python                                   | - Algoritmos de regressão, classificação e clusterização             |
+| - R                                        | - Métricas de Performance (RMSE, MSE, MAE, MAPE, Confusion Matrix, Precision, Recall, ROC Curve, Silhouette Score e R²) |
+| - Linguagem SQL                            | - Pacotes de Machine Learning: Sklearn                               |
+| - Conceitos de ETL                         |                                                                      |
+| - Git                                      |                                                                      |
+| - Terminal                                 |                                                                      |
+
+
 **Habilidades de Programação:**    
 - Python
 - R
