@@ -41,7 +41,8 @@ Meu objetivo é contribuir para a melhoria contínua dos processos internos, ide
 - ### Market basket analysis
 ![image](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*gsP-V6bLLsjxObON.jpg)
 
-**Contexto:** A análise de cesta de mercado é amplamente utilizada no setor de varejo, onde os dados de vendas são processados e analisados para conseguir entender os padrões de compra dos clientes e assim, alcançar as melhores estratégias de venda. 
+**Contexto:** 
+- A análise de cesta de mercado é amplamente utilizada no setor de varejo, onde os dados de vendas são processados e analisados para conseguir entender os padrões de compra dos clientes e assim, alcançar as melhores estratégias de venda. 
 
 **Objetivos:**
 - Será utilizado o algoritmo Apriori, que consiste na mineração de conjuntos de itens frequentes, ou seja, ele agrupa os itens que mais são comprados juntos pelos clientes, indicando suas tendências e correlações.
