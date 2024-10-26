@@ -39,7 +39,7 @@ Meu objetivo é contribuir para a melhoria contínua dos processos internos, ide
 ---
 ## Projetos de Análise de Dados <a name="projetos-analise"></a>
 - ### Market basket analysis
-![image](https://github.com/caiosm01/caiosm1.github.io/blob/main/imgem_projetos/market_basket_analysis.jpg)
+![image](https://miro.medium.com/v2/resize:fit:1400/format:webp/0*gsP-V6bLLsjxObON.jpg)
 
 **Contexto:** A análise de cesta de mercado é amplamente utilizada no setor de varejo, onde os dados de vendas são processados e analisados para conseguir entender os padrões de compra dos clientes e assim, alcançar as melhores estratégias de venda. 
 
