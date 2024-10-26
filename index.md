@@ -30,6 +30,10 @@ Meu objetivo é contribuir para a melhoria contínua dos processos internos, ide
 - Seaborn
 - Streamlit
 
+**Engenharia de dados:**    
+- pySpark (básico)
+- Hadoop (básico)
+
 
 **Engenharia de software:**    
 - Github
