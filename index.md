@@ -113,6 +113,22 @@ Meu objetivo é contribuir para a melhoria contínua dos processos internos, ide
 #### Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/caiosm01/projeto_engenharia_de_dados_pesquisas/tree/main)
 ---
 
+## Projetos de Automação de tarefas <a name="projetos-automacao"></a>
+
+### Web Scraping - Google Drive
+![image](https://neilpatel.com/wp-content/uploads/2018/01/word-image-343.jpeg)
+
+**Objetivos:**
+- Este projeto visa automatizar a extração de informações e organização de arquivos no Google Drive. 
+
+**Ferramentas:**
+- Python
+- MySQL
+- Excel
+
+#### Para acessar o projeto basta clicar em: [Behance](https://www.behance.net/gallery/201376925/Web-Scraping-Google-Drive)
+---
+
 Entre em contato comigo por meio de:  
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/caiosm01/) 
