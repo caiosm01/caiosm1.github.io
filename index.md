@@ -1,15 +1,36 @@
 # Portfólio
 
 ## Sobre mim
-Sou farmacêutica graduada pela Universidade Federal do Paraná e possuo experiência em projetos de desenvolvimento de modelos supervisionados, não supervisionados, manipulação e análise de dados. Também tenho conhecimento em estatística e versionamento de código.  
+Sou graduado em Física pela Universidade Federal Fluminense e pós-graduado em Ciência de Dados e Big Data Analytics, com experiência no desenvolvimento de dashboards interativos, manipulação e análise de dados, criação de pipelines e automação de tarefas. Fui responsável pela criação do data warehouse na empresa onde trabalho, assumindo sua estruturação e desenvolvimento desde o início.
 
-Minha trajetória na área de dados iniciou durante minha atuação no setor de epidemiologia, onde percebi o impacto da análise de dados para melhoria de processos e geração de resultados positivos. Atualmente, estou cursando a formação Cientista de Dados pela Data Science Academy e concluí a formação em Data Science do programa Santander Coders.
+Minha trajetória na área de dados começou durante a iniciação científica na universidade, onde trabalhei no laboratório de difração de raios X estudando o efeito da moagem mecânica na cristalização do caroço de açaí, que se tornou o tema do meu TCC. Nesse período, desenvolvi habilidades de manipulação e análise de dados experimentais. Em 2022, ingressoi na Ágora Pesquisa, onde continuo a expandir minha atuação na área de dados.
 
-Meu objetivo é ajudar as empresas a superar desafios na tomada de decisões, fornecendo soluções baseadas em dados para impulsionar o crescimento e a inovação.
+Meu objetivo é contribuir para a melhoria contínua dos processos internos, identificando problemas e oportunidades, além de fomentar o desenvolvimento de uma cultura orientada por dados (data-driven).
 
-**Habilidades Técnicas:**    
-- Linguagens de Programação: R, Python e SQL  
-- Ferramentas: Git e Excel  
+**Habilidades de Programação:**    
+- Python
+- R
+- Linguagem SQL
+- Conceitos de ETL
+- Git
+- Terminal
+
+**Estatística e Machine Learning:**    
+- Algoritmos de regressão, classificação e clusterização
+- Métricas de Performance ( RMSE, MSE, MAE, MAPE, Confusion Matrix, Precision, Recall, ROC Curve, Silhouette Score e R2 )
+- Pacotes de Machine Learning: Sklearn
+
+**Visualização de dados:**    
+- Microsoft Power BI
+- Matplotlib
+- Plotly
+- Seaborn
+- Streamlit
+
+**Engenharia de software:**    
+- Github
+- API
+- Pyenv
 
 ---
 
