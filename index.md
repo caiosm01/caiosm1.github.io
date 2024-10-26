@@ -33,7 +33,7 @@ Meu objetivo é contribuir para a melhoria contínua dos processos internos, ide
 - Pyenv
 
 ---
-
+```
 ## Projetos de Machine Learning <a name="projetos-ml"></a>
 
 ### Previsão de Câncer de Pulmão com R e Deploy na AWS ECS
@@ -144,16 +144,17 @@ Aqui você encontra resumos que detalham o funcionamento dos estimadores em Mach
 - [Árvores de Decisão](https://github.com/leticiadluz/estimadores/blob/main/decision_tree.ipynb)
 
 ---
+
 ## Certificados
 Para acessar os certificados, basta clicar [aqui](https://github.com/leticiadluz/Certificados/tree/main)
 
 ---
-
+```
 Entre em contato comigo por meio de:  
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/leticiadluz/) 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:leticiadluz@gmail.com) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/caiosm01/) 
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:caiosm180@gmail.com) 
 
 
-© 2024 Leticia da Luz. 
+© 2024 Caio Santos Martins. 
 
