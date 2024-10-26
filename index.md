@@ -3,7 +3,7 @@
 ## Sobre mim
 Sou graduado em Física pela Universidade Federal Fluminense e pós-graduado em Ciência de Dados e Big Data Analytics, com experiência no desenvolvimento de dashboards interativos, manipulação e análise de dados, criação de pipelines e automação de tarefas. Fui responsável pela criação do data warehouse na empresa onde trabalho, assumindo sua estruturação e desenvolvimento desde o início.
 
-Minha trajetória na área de dados começou durante a iniciação científica na universidade, onde trabalhei no laboratório de difração de raios X estudando o efeito da moagem mecânica na cristalização do caroço de açaí, que se tornou o tema do meu TCC. Nesse período, desenvolvi habilidades de manipulação e análise de dados experimentais. Em 2022, ingressoi na Ágora Pesquisa, onde continuo a expandir minha atuação na área de dados.
+Minha trajetória na área de dados começou durante a iniciação científica na universidade, onde trabalhei no laboratório de difração de raios X estudando o efeito da moagem mecânica na cristalização do caroço de açaí, que se tornou o tema do meu TCC. Nesse período, desenvolvi habilidades de manipulação e análise de dados experimentais. Em 2022, ingressei na [Ágora Pesquisa](https://www.linkedin.com/in/%C3%A1gora-pesquisa-20828b279/), onde continuo a expandir minha atuação na área de dados.
 
 Meu objetivo é contribuir para a melhoria contínua dos processos internos, identificando problemas e oportunidades, além de fomentar o desenvolvimento de uma cultura orientada por dados (data-driven).
 
