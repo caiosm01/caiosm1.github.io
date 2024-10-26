@@ -58,6 +58,29 @@ Meu objetivo é contribuir para a melhoria contínua dos processos internos, ide
 #### Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/caiosm01/Market_Basket_Analysis_Apriori/tree/main)
 
 ---
+## Projetos de Engenharia de dados <a name="projetos-ml"></a>
+
+### Desenvolvimento de um Data Warehouse com MySQL
+![image](https://raw.githubusercontent.com/caiosm01/projeto_engenharia_de_dados_pesquisas/refs/heads/main/fluxograma_ETL.png?token=GHSAT0AAAAAACZRTKXZRWZL24TAKJO5YIDKZY5J6HA)
+
+**Contexto:** Com o objetivo de centralizar dados provenientes de diversas plataformas em um único repositório e relacioná-los para extrair insights eficazes, foi desenvolvido um Data Warehouse (DW) com um conjunto específico de regras de negócio, visando atender às necessidades da empresa. 
+
+**Objetivos:**
+- Criar um pipeline de ETL (Extract, Transform, Load) que busca dados de diversas fontes e formatos, utilizando planilhas e APIs.
+- Relacionar dados que anteriormente não eram analisados em conjunto através de um repositório central. 
+
+**Resultados:**
+- Com a centralização dos dados de todas as plataformas utilizadas diariamente pela empresa em um único repositório, o Data Warehouse possibilitou a obtenção de insights estratégicos de grande impacto. A análise integrada dos dados permitiu identificar gargalos e pontos de melhoria nos processos operacionais e administrativos, promovendo uma visão clara sobre os pontos fracos e oportunidades de otimização em cada setor.
+
+- Além de funcionar como base sólida para dashboards e relatórios com indicadores e KPIs fundamentais para áreas como financeiro, operações e RH, o Data Warehouse foi estruturado para atualizações frequentes, garantindo que as decisões sejam orientadas por dados em tempo real. Isso promove maior agilidade na tomada de decisão, suporte à análise preditiva e contribui para o alinhamento das estratégias empresariais em todos os níveis.
+
+**Ferramentas:**
+- Python
+- MySQL
+- Excel
+
+#### Para acessar o projeto basta clicar em:     [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/caiosm01/projeto_engenharia_de_dados_pesquisas/tree/main)
+---
 
 Entre em contato comigo por meio de:  
 
