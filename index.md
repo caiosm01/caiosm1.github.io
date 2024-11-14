@@ -64,7 +64,7 @@ Meu objetivo é contribuir para a melhoria contínua dos processos internos, ide
 ---
 
 - ### Dashboard Financeiro Integrado com API do Bling
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg7qUhKSm76zSmkNBxS_ihbtCAVB0oGTTpWzyBT3SAFkoqUB7wGS4rZaRZdn1bPBE6yOc&usqp=CAU)
+![image](https://raw.githubusercontent.com/caiosm01/caiosm1.github.io/refs/heads/main/imgem_projetos/dash_bling.png)
 
 **Objetivos:**
 - Este projeto visa automatizar o processo de extração, transformação e análise de dados financeiros utilizando a API do Bling e o Power BI. O objetivo é fornecer insights em tempo real para a gestão financeira, ajudando na tomada de decisões estratégicas.
